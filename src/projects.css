@@ -1,0 +1,32 @@
+#tab {
+  color: black;
+  align-self: center;
+  font-family: "Courgette", cursive;
+  font-size: 25px;
+  text-align: center;
+  padding: 20px;
+}
+#name {
+  font-family: "Pacifico", cursive;
+  align-self: center;
+  text-align: center;
+  font-size: 30px;
+  color: orange;
+}
+#navs {
+  align-self: center;
+  font-family: "Courgette", cursive;
+  font-size: 25px;
+  text-align: center;
+}
+a {
+  text-decoration: none !important;
+  color: black;
+}
+body {
+  background-color: white;
+}
+.border {
+  border: 1px solid red;
+  border-radius: 40px;
+}

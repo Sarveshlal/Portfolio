@@ -1,0 +1,41 @@
+#tab {
+  color: black;
+  align-self: center;
+  font-family: "Courgette", cursive;
+  font-size: 25px;
+  text-align: center;
+  padding: 20px;
+}
+#name {
+  font-family: "Pacifico", cursive;
+  align-self: center;
+  text-align: center;
+  font-size: 30px;
+  color: orange;
+}
+#navs {
+  align-self: center;
+  font-family: "Courgette", cursive;
+  font-size: 25px;
+  text-align: center;
+}
+a {
+  text-decoration: none !important;
+  color: black;
+}
+body {
+  background-color: white;
+}
+.heading {
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+}
+.education,
+.interest,
+.language,
+.certificates,
+.technology {
+  text-align: center;
+  font-family: "Assistant", sans-serif;
+}
